@@ -1,0 +1,9 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+psycopg2-binary
+flask-cors
+flask-swagger
+alembic
+pytest
+black
