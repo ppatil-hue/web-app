@@ -7,3 +7,4 @@ flask-swagger
 alembic
 pytest
 black
+python-dotenv
